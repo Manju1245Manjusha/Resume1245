@@ -1,0 +1,51 @@
+{
+	"profile":{
+	"img":"images.jpg",
+	"name":"Manjusha",
+	"Roll":"16NN1A1245",
+	"College":"Vignan's Nirula",
+	"Place":"Guntur"
+	},
+	"Career":{
+	"info":"I am seeking a company where I can use my experience and education to help the company meet and surpass its goals."
+    },
+    "Education":[
+    {
+          "Degree":"B.tech",
+          "Institution":"Vignan's Nirula Institute of Technology and science for Women",
+          "YearOfPassing":"2020"
+    },
+    {
+          "Degree":"Intermediate",
+          "Institution":"Sri Chaitanya Junior College",
+          "YearOfPassing":"2016"
+    },
+    {
+          "Degree":"SSC",
+          "Institution":"Sri Chaitanya School",
+          "YearOfPassing":2014
+    }
+    ],
+    "Languages":[
+    {
+    "lang":"Telugu"
+    },
+    {
+    "lang":"English"
+    }
+    ],
+    "Skills":[
+    {
+    "title":"Platforms",
+    "content":"Windows,Linux."
+    },
+    {
+    "title":"Programming Languages",
+    "content":"C,C++,Java,Python,R."
+    },
+    {
+    "title":"DataBases",
+    "content":"MySQL."
+    }
+    ]
+}
